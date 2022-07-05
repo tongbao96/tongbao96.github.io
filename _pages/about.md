@@ -10,14 +10,6 @@ redirect_from:
 About
 ------
 ✍️ I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io) , with a focus on information extraction(NER & IE);
-
-
-
- Likes👋：programming, travel, encyclopedia<br />
- Sport💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc...<br />
-Match📺：La Lakers(die hard Laker fan💜),  Golden State Warriors, Kyrie Irving <br />
-Addrs🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, Nanjing, China<br />
-
   
 🧠Now : 
 &emsp;&emsp;
@@ -27,8 +19,7 @@ Addrs🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, 
 ![TF](https://img.shields.io/badge/TF-tensorflow-yellow?style=flat-square)
 ![BERT](https://img.shields.io/badge/Pretrain-BERT-red?style=flat-square)
 ![Pytorch](https://img.shields.io/badge/Py-torch-green?style=flat-square)
-  
-
+ 
 
 📅 Plan:
 &emsp;&emsp;
@@ -36,6 +27,14 @@ Addrs🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, 
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
+
+Something
+======
+ Likes👋：programming, travel, encyclopedia<br />
+ Sport💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc...<br />
+Match📺：La Lakers(die hard Laker fan💜),  Golden State Warriors, Kyrie Irving <br />
+Addrs🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, Nanjing, China<br />
 
 Find me
 ======

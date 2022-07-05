@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I am currently studying for a Ph.D. at 🏢 Nanjing University of Science and Technology [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io) , with a focus on information extraction(NER & IE);
+ I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io) , with a focus on information extraction(NER & IE);
 
 
 Others
@@ -18,8 +18,8 @@ Others
 🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, Nanjing, China<br />
 
 Find me
-📧: [20190998@jaas.ac.cn]
 ======
+📧：[tongbao0325@163.com](tongbao0325@163.com)
 For more info
 ------
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on  [GitHub pages](https://pages.github.com).

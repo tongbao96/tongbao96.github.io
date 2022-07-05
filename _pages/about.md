@@ -19,7 +19,7 @@ Others
 
 Find me
 ======
-📧：[tongbao0325@163.com](www.tongbao0325@163.com)
+📧：tongbao0325@163.com
 
 For more info
 ------

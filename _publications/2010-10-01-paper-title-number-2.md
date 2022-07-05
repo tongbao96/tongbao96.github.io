@@ -1,7 +1,7 @@
 ---
 title: "A BERT-Based Hybrid Short Text Classification Model Incorporating CNN and Attention-Based BiGRU"
 collection: publications
-permalink: /publication/2021-12-18-paper-title-number-1
+#permalink: /publication/2021-12-18-paper-title-number-1
 
 date: 2021-12-18
 venue: ' Journal of Organizational and End User Computing(Volume 33,6)'
@@ -11,5 +11,5 @@ citation: 'Bao, T., Ren, N., Luo, R., Wang, B., Shen, G., & Guo, T. (2021). A BE
 ---
 
 
-[Download paper here]((http://tongbao96.github.io/files/paper1.pdf)
+[Download paper here](http://tongbao96.github.io/files/paper1.pdf)
 

@@ -23,16 +23,19 @@ Addrs🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, 
 &emsp;&emsp;
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![TF](https://img.shields.io/badge/TF-tensorflow-yellow?style=flat-square)
-![BERT](https://img.shields.io/badge/pretrain-BERT-red?style=flat-square)
+![BERT](https://img.shields.io/badge/Pretrain-BERT-red?style=flat-square)
 ![Pytorch](https://img.shields.io/badge/Py-torch-green?style=flat-square)
-
+  
 
 
 📅 Plan:
 &emsp;&emsp;
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 Find me
 ======

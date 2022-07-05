@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p>✍️ I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io) , with a focus on information extraction(NER & IE);
+<p>✍️ I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io) , with a focus on information extraction(NER & IE);<p>
 
 
 🤹‍About : <br/>

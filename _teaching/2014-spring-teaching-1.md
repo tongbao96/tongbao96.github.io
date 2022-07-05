@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Phd course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-spring-teaching-1
 venue: "NJSUT"
 date: 2022-01-01
 location: "Nanjing, China"

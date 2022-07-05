@@ -30,12 +30,6 @@ About
 
 
 ___
-<style>
-hr:nth-of-type(1) {
-  border-color: red !important;
-}
-</style>
-
  Likes👋：programming, travel, encyclopedia<br />
  Sport💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc...<br />
 Match📺：La Lakers(die hard Laker fan💜),  Golden State Warriors, Kyrie Irving <br />

@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021-12-18-paper-title-number-1
+
+date: 2021-12-18
+venue: 'Journal 33 Volume 6'
+paperurl: 'http://tongbao96.github.io/files/paper2.pdf'
+citation: 'Bao, T., Ren, N., Luo, R., Wang, B., Shen, G., & Guo, T. (2021). A BERT-Based Hybrid Short Text Classification Model Incorporating CNN and Attention-Based BiGRU. Journal of Organizational and End User Computing (JOEUC), 33(6), 1-21. http://doi.org/10.4018/JOEUC.294580.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://academicpages.github.io/files/A BERT-based Hybrid Short Text Classification Model Incorporating CNN and Attention-based BiGRU.pdf)
+
+Recommended citation:Bao, T., Ren, N., Luo, R., Wang, B., Shen, G., & Guo, T. (2021). A BERT-Based Hybrid Short Text Classification Model Incorporating CNN and Attention-Based BiGRU. Journal of Organizational and End User Computing (JOEUC), 33(6), 1-21. http://doi.org/10.4018/JOEUC.294580.

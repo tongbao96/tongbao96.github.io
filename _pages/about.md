@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "🙋 Hello, Welcome to my homepage, Have a nice day!"
+title: "🙋 About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About
-------
 ✍️ I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io) , with a focus on information extraction(NER & IE);
   
 🧠Now : 
@@ -27,7 +25,6 @@ About
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-
 
 Others
 ------

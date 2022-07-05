@@ -13,7 +13,6 @@ redirect_from:
 
 
 🤹‍About : <br/>
-&emsp;&emsp;
  Likes👋：programming, travel, encyclopedia<br />
  Sport💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc...<br />
 Match📺：La Lakers(die hard Laker fan💜),  Golden State Warriors, Kyrie Irving <br />

@@ -10,7 +10,7 @@ redirect_from:
  I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io) , with a focus on information extraction(NER & IE);
 
 
-Others
+About
 ======
  Likes👋：programming, travel, encyclopedia<br />
  Sport💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc...<br />
@@ -21,8 +21,10 @@ Find me
 ======
 Email📧：tongbao0325@163.com
 
-
+Others
+======
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tongbao96&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id==tongbao96" /> </div>
 
 For more info
 ------

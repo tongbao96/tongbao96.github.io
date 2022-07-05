@@ -24,6 +24,7 @@ Addrs🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, 
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![TF](https://img.shields.io/badge/TF-tensorflow-yellow?style=flat-square)
+![Pre-train](https://img.shields.io/badge/BERT-bert-yellow?style=flat-square)
 
 
 📅 Plan:

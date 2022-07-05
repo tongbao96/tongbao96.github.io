@@ -12,7 +12,7 @@ redirect_from:
 
 Others
 ======
-👋：programming, Travel, Encyclopedia<br />
+👋： programming, Travel, Encyclopedia<br />
 💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc... (Waiting for your 📲 to play together！)<br />
 📺：NBA >> La Lakers(die hard Laker fan💜),   Golden State Warriors, Kyrie，KD <br />
 🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, Nanjing, China<br />

@@ -9,7 +9,7 @@ redirect_from:
 ---
 ✍️ I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io) , with a focus on information extraction(NER & IE);
   
-🧠Now : 
+🧠 Now : 
 &emsp;&emsp;
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)

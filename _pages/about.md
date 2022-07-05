@@ -13,8 +13,8 @@ redirect_from:
 Others
 ======
 Like👋：programming, Travel, Encyclopedia<br />
-Sports💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc... (Waiting for your 📲 to play together！)<br />
-TV📺：NBA >> La Lakers(die hard Laker fan💜),   Golden State Warriors, Kyrie，KD <br />
+Sports💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc...<br />
+TV📺：La Lakers(die hard Laker fan💜),  Golden State Warriors, Kyrie，KD <br />
 Address🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, Nanjing, China<br />
 
 Find me

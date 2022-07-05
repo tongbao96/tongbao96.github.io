@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&emsp;🙋  I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io). My research focus on 📝[information extraction](https://arxiv.org/abs/2005.00512);This blog is mainly used to fork some  projects and methods related to information extraction for the continuous learning and progress. Those projects includes but are not limited to 🔹 [Named entity recognition(NER)](https://github.com/macanv/BERT-BiLSTM-CRF-NER),🔸 [Relation extraction(RE)](https://github.com/thunlp/OpenNRE),🔺 [Text Classification(TC)](https://github.com/brightmart/text_classification), and others in the field of text mining.
+&emsp;🙋  I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io). My research focus on 📝[information extraction](https://arxiv.org/abs/2005.00512);This blog is mainly used to fork some  projects and methods related to information extraction for the continuous learning and progress. Those projects includes but are not limited to 🔹 [Named entity recognition(NER)](https://github.com/macanv/BERT-BiLSTM-CRF-NER),🔸 [Relation extraction(RE)](https://github.com/thunlp/OpenNRE),🔺 [Text Classification(TC)](https://github.com/brightmart/text_classification), and others in the field of text mining. 🙌Happy to communicate and discuss with scholars who are interested in these aspects and make progress together.🚀
   
 🧠 Now: 
 &emsp;&emsp;

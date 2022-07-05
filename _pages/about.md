@@ -12,7 +12,7 @@ redirect_from:
 🧠 Now: 
 &emsp;&emsp;
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-puple?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-purple?style=flat-square&logo=java)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![TF](https://img.shields.io/badge/TF-tensorflow-yellow?style=flat-square&logoColor=black)
 ![BERT](https://img.shields.io/badge/Pretrain-BERT-red?style=flat-square)

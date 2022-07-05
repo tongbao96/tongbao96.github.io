@@ -13,7 +13,7 @@ redirect_from:
 &emsp;&emsp;
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![TF](https://img.shields.io/badge/TF-tensorflow-yellow?style=flat-square&logoColor=black)
+![TF](https://img.shields.io/badge/TF-tensorflow-orange?style=flat-square&logoColor=black)
 ![BERT](https://img.shields.io/badge/Pretrain-BERT-red?style=flat-square)
 ![Pytorch](https://img.shields.io/badge/Py-torch-green?style=flat-square)
 ![Java](https://img.shields.io/badge/-java-purple?style=flat-square&logo=java)

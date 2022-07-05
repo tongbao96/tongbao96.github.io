@@ -30,20 +30,21 @@ About
 
 
 ___
+
  Likes👋：programming, travel, encyclopedia<br />
  Sport💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc...<br />
 Match📺：La Lakers(die hard Laker fan💜),  Golden State Warriors, Kyrie Irving <br />
 Addrs🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, Nanjing, China<br />
 
 Find me
-======
+------
 Email📧：tongbao0325@163.com
 
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 For more info
-======
+------
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on  [GitHub pages](https://pages.github.com).
 
 

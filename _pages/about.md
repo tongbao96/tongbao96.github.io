@@ -12,10 +12,10 @@ redirect_from:
 
 Others
 ======
-Like👋：programming, travel, encyclopedia<br />
-Sports💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc...<br />
-TV📺：La Lakers(die hard Laker fan💜),  Golden State Warriors, Kyrie Irving <br />
-Address🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, Nanjing, China<br />
+Likes👋：programming, travel, encyclopedia<br />
+Sport💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc...<br />
+Match📺：La Lakers(die hard Laker fan💜),  Golden State Warriors, Kyrie Irving <br />
+Addrs🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, Nanjing, China<br />
 
 Find me
 ======

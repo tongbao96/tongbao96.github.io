@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🙋 Hello"
+title: "🙋 Hello, Welcome to my homepage, Have a nice day!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

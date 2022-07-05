@@ -29,8 +29,8 @@ About
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 
-___
-
+Others
+------
  Likes👋：programming, travel, encyclopedia<br />
  Sport💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc...<br />
 Match📺：La Lakers(die hard Laker fan💜),  Golden State Warriors, Kyrie Irving <br />

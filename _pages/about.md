@@ -12,7 +12,7 @@ redirect_from:
 <p>✍️ I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io) , with a focus on information extraction(NER & IE);
 
 
-🤹‍About : 
+🤹‍About : <br/>
 &emsp;&emsp;
  Likes👋：programming, travel, encyclopedia<br />
  Sport💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🎣, etc...<br />

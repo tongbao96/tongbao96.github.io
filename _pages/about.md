@@ -35,7 +35,7 @@ Addrs🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, 
 
 Find me
 ------
-Email📧：[tongbao0325@163.com](https://www.tingbao0325@163.com)
+Email📧：[tongbao0325@163.com](https://tingbao0325@163.com)
 
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>

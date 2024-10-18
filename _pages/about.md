@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&emsp;🙋  I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io). My research focus on 📝information extraction;This blog is mainly used to fork some  projects and methods related to information extraction for the continuous learning and progress. Those projects includes but are not limited to 🔹Named Entity Recognition(NER),🔸Relation Extraction(RE),🔺Text Classification(TC), and others in the field of text mining. 🙌Looking forward to communicate with researchers interested in these topics.🚀
+&emsp;🙋  I am currently studying for a Ph.D. at Nanjing University of Science and Technology 🏢 [NJUST](https://www.njust.edu.cn/), a member of📖 [IR&TM group](https://chengzhizhang.github.io). My research focus on information extraction and summarization.
+
+🙌If you are interested in information extraction and summarization, feel free to reach out for discussion and learning together.
   
 <!-- 🧠 Now: 
 &emsp;&emsp;
@@ -25,13 +27,6 @@ redirect_from:
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) -->
-
-Others
-------
- Likes👋：programming, travel<br />
- Sport💪：Basketball🏀,  Swimming🏊‍♂️,  Fishing🐟, etc...<br />
-Match📺：La Lakers(die hard Laker fan💜),  Golden State Warriors <br />
-Addrs🏠：Nanjing University of Science and Technology, No. 200, Xiaolingwei, Nanjing, China<br />
 
 Find me
 ------

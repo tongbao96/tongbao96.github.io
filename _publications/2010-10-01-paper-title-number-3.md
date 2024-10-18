@@ -1,5 +1,5 @@
 ---
-title: "[Enhancing Abstractive Summarization of Scientific Papers Using Structure Information](http://tongbao96.github.io/files/paper2.pdf)"
+title: "[Enhancing Abstractive Summarization of Scientific Papers Using Structure Information](http://tongbao96.github.io/files/1-s2.0-S0957417424023960-main.pdf)"
 collection: publications
 date: 2024-10-9
 venue: 'Expert system with application'

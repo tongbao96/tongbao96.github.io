@@ -107,3 +107,13 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* 正文链接：亮蓝色 */
+.page__content a {
+  color: #007BFF;
+}
+
+/* 鼠标悬停时稍微加深 */
+.page__content a:hover {
+  color: #0056B3;
+}

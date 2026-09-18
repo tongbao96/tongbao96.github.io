@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tong Bao"
-description              : "Focusing on video and speech large generation model."
+description              : "LLMs, Scientific text mining, Generation."
 repository               : "tongbao96/tongbao96.github.io"
 google_scholar_stats_use_cdn : true
 

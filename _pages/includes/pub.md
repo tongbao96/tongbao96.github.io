@@ -1,6 +1,6 @@
 # 📝 Publications
 
-1. <strong style="color: #8B3034;">Tong Bao</strong>, Yi Zhao, Heng Zhang, and Chengzhi Zhang. **Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach**. *Expert Systems with Applications*, 333: 133983, 2027. [[DOI](https://doi.org/10.1016/j.eswa.2026.133983)] [[arXiv](https://arxiv.org/abs/2608.08636)] [[Code](https://github.com/tongbao96/code-for-SciNER)]
+1. <strong style="color: #8B3034;">Tong Bao</strong>, Yi Zhao, Heng Zhang, and Chengzhi Zhang. **Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach**. *Expert Systems with Applications*, 333: 133983, 2027. [[DOI](https://doi.org/10.1016/j.eswa.2026.133983)] [[arXiv](https://arxiv.org/abs/2608.08636)]
 
 2. <strong style="color: #8B3034;">Tong Bao</strong>, Mir Tafseer Nayeem, Yi Zhao, Davood Rafiei, and Chengzhi Zhang. **SurveyAgent-HKA: A Multi-agent Framework for Scientific Survey Generation with LLMs and Human Knowledge Augmentation**. *Knowledge-Based Systems*, 352: 117011, 2026. [[DOI](https://doi.org/10.1016/j.knosys.2026.117011)] [[arXiv](https://arxiv.org/abs/2609.05938)] 
 3. Wenqing Wu, Chengzhi Zhang, Yi Zhao, <strong style="color: #8B3034;">Tong Bao</strong>. **Impact of Large Language Models on Peer Review Opinions from a Fine-grained Perspective: Evidence from Top Conference Proceedings in AI**. *Scientometrics*, 131(5): 3547–3584, 2026. [[DOI](https://doi.org/10.1007/s11192-026-05645-7)] [[arXiv](https://arxiv.org/abs/2604.19578)] 

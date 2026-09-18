@@ -10,7 +10,7 @@
 
 5. Shuai Chen, <strong style="color: #8B3034;">Tong Bao</strong>, Jitong Peng, and Chengzhi Zhang. **More Computational Resources Do Not Ensure Higher Scholarly Impact: Evidence from Leading NLP Conference Papers**. In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*, 2026. [[arXiv](https://arxiv.org/abs/2608.21806)] [[Code](https://github.com/ChenShuai00/Computational-Resources)]
 
-6. <strong style="color: #8B3034;">Tong Bao</strong>, Xinyi Yan, Yi Zhao, Heng Zhang, and Chengzhi Zhang. **Structure before Text: Evaluating LLMs on Hierarchical Outline Generation for Scientific Surveys**. In *Proceedings of the 89th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2026)*, Bangkok, Thailand, 2026. [[Poster](https://chengzhizhang.github.io/papers/)]
+6. <strong style="color: #8B3034;">Tong Bao</strong>, Xinyi Yan, Yi Zhao, Heng Zhang, and Chengzhi Zhang. **Structure before Text: Evaluating LLMs on Hierarchical Outline Generation for Scientific Surveys**. In *Proceedings of the 89th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2026)*, Bangkok, Thailand, 2026. [[Poster](https://www.asist.org/am26/)]
 
 7. Yi Zhao, Yang Chenggang, Yuzhuo Wang, <strong style="color: #8B3034;">Tong Bao</strong>, Heng Zhang, and Chengzhi Zhang. **Beyond Single-Dimension Novelty: How Combinations of Theory, Method, and Results-based Novelty Shape Scientific Impact**. In *Proceedings of the Joint Workshop of the 6th AI + Informetrics and the 7th Extraction and Evaluation of Knowledge Entities from Scientific Documents (AII-EEKE 2026)*, 2026. [[arXiv](https://arxiv.org/abs/2604.12471)]
 

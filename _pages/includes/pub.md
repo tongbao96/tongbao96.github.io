@@ -22,4 +22,4 @@
 
 12. Yi Zhao, Heng Zhang, Wenqing Wu, <strong style="color: #8B3034;">Tong Bao</strong>, and Chengzhi Zhang\*. **Measuring the Novelty of Scientific Papers Based on the Latent Distance Between Pairs of MeSH Terms**. In *Proceedings of the 24th ACM/IEEE Joint Conference on Digital Libraries (JCDL 2024)*, Hong Kong, China, 2024. [[DOI](https://doi.org/10.1145/3677389.3702533)]
 
-13. <strong style="color: #8B3034;">Tong Bao</strong>, Ni Ren\*, Rui Luo, Baojian Wang, Gengyu Shen, and Ting Guo. **A BERT-based Hybrid Short Text Classification Model Incorporating CNN and Attention-based BiGRU**. *Journal of Organizational and End User Computing*, 33(6): 1–21, 2021. [[DOI](https://doi.org/10.4018/JOEUC.20211101.oa5)]
+13. <strong style="color: #8B3034;">Tong Bao</strong>, Ni Ren\*, Rui Luo, Baojia Wang, Gengyu Shen, and Ting Guo. **A BERT-based Hybrid Short Text Classification Model Incorporating CNN and Attention-based BiGRU**. *Journal of Organizational and End User Computing*, 33(6): 1–21, 2021. [[DOI](https://doi.org/10.4018/JOEUC.20211101.oa5)]

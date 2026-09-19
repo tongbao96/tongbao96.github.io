@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bao Tong"
-description              : "LLMs, Scientific text mining, Generation."
+description              : ""
 repository               : "tongbao96/tongbao96.github.io"
 google_scholar_stats_use_cdn : true
 

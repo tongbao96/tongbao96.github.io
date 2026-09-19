@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Bao Tong (he/him)"
+title                    : "Bao Tong"
 description              : ""
 repository               : "tongbao96/tongbao96.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Bao Tong"
+  name             : "Bao Tong  (he/him)"
   avatar           : "images/2.jpg"
   bio              : ""
   location         : "Nanjing, China"
